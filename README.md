@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Prince Nyayun
 
-<!--
-**pnyayun/pnyayun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 About Me
+- Python Developer with a growing interest in Artificial Intelligence and Machine Learning  
+- Focused on building practical projects and improving problem-solving skills  
+- Interested in data-driven systems, automation, and scalable applications  
 
-Here are some ideas to get you started:
+## 🚀 Current Focus
+- Learning core Machine Learning concepts  
+- Building small projects to apply what I learn  
+- Improving my understanding of software engineering fundamentals  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Skills
+- Programming: Python  
+- Familiar with: Data analysis, scripting, and basic backend development  
+- Learning: Machine Learning, AI concepts, and system design fundamentals  
+
+## 📌 Goals
+- Build a strong portfolio of real-world projects  
+- Contribute to open-source projects  
+- Develop expertise in AI/ML and scalable systems  
+
+## 📂 Projects
+- Coming soon...
+
+## 📫 Contact
+- Email: your-email@gmail.com  
+- GitHub: https://github.com/your-username  
+
+---
+
+⭐ Always learning, always building.
