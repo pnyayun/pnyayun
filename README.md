@@ -24,8 +24,8 @@
 - Coming soon...
 
 ## 📫 Contact
-- Email: your-email@gmail.com  
-- GitHub: https://github.com/your-username  
+- Email: prince.nyayun.eng@gmail.com 
+- GitHub: https://github.com/pnyayun 
 
 ---
 
